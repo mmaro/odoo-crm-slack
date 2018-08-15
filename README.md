@@ -11,4 +11,4 @@ leads in time.
 
 pip3 install -r requirements.txt
 
-![Slack Developer Kit for Python python-slackclient](https://github.com/slackapi/python-slackclient)
+[Slack Developer Kit for Python python-slackclient](https://github.com/slackapi/python-slackclient)
