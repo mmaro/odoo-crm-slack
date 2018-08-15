@@ -1,6 +1,6 @@
 # Odoo CRM & Slack
 
-Odoo Module for Slack. You get a warning on a slack channel, every time a new lead is created.
+Odoo Module for Slack. You get a message on a slack channel, every time a new lead is created.
 
 ## Why You Need It
 
