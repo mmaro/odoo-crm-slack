@@ -4,8 +4,8 @@ Odoo Module for Slack. You get a warning on a slack channel, every time a new le
 
 ## Why You Need It
 
-This module will send a notification to a Slack channel (Desktop/Mobile) so that you reply your
-leads in time.
+This module will send a notification to a Slack channel (Desktop/Mobile), so that you reply to your
+leads on time.
 
 ## Dependencies
 
